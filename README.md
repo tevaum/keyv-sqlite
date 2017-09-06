@@ -2,10 +2,6 @@
 
 Fork of the SQLite storage adapter for [Keyv](https://github.com/lukechilds/keyv) that supports removing expired data.
 
-[![Build Status](https://travis-ci.org/MySidesTheyAreGone/keyv-sqlite-shrink.svg?branch=master)](https://travis-ci.org/MySidesTheyAreGone/keyv-sqlite-shrink)
-[![Coverage Status](https://coveralls.io/repos/github/MySidesTheyAreGone/keyv-sqlite-shrink/badge.svg?branch=master)](https://coveralls.io/github/MySidesTheyAreGone/keyv-sqlite-shrink?branch=master)
-[![npm](https://img.shields.io/npm/v/keyv-sqlite-shrink.svg)](https://www.npmjs.com/package/keyv-sqlite-shrink)
-
 ## Install
 
 ```shell
