@@ -1,6 +1,6 @@
 {
   "name": "keyv-sqlite-shrink",
-  "version": "1.2.8",
+  "version": "1.2.10",
   "description": "SQLite storage adapter for Keyv - supports cleanup/shrinking",
   "main": "src/index.js",
   "scripts": {
