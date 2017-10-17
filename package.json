@@ -1,6 +1,6 @@
 {
   "name": "keyv-sqlite-shrink",
-  "version": "1.2.10",
+  "version": "1.2.12",
   "description": "SQLite storage adapter for Keyv - supports cleanup/shrinking",
   "main": "src/index.js",
   "scripts": {
@@ -42,11 +42,11 @@
   "dependencies": {
     "keyv-sql-shrink": "1.1.2",
     "pify": "3.0.0",
-    "sqlite3": "3.1.11"
+    "sqlite3": "3.1.13"
   },
   "devDependencies": {
     "ava": "^0.22.0",
-    "coveralls": "^2.13.1",
+    "coveralls": "^3.0.0",
     "eslint-config-xo-lukechilds": "^1.0.0",
     "keyv": "*",
     "@keyv/test-suite": "*",
